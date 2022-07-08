@@ -11,14 +11,16 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.comment.starter</groupId>
-    <artifactId>comment-spring-boot-starter</artifactId>
+    <groupId>com.comment</groupId>
+    <artifactId>lc-comment</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>counter-spring-boot-starter</module>
-        <module>like-list-spring-boot-starter</module>
+        <module>comment-spring-boot-starter</module>
+        <module>comment-mongo-example</module>
+<!--        <module>comment-starter-example</module>-->
+<!--        <module>comment-docs</module>-->
     </modules>
 
     <properties>
@@ -28,14 +30,14 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-autoconfigure</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter</artifactId>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-autoconfigure</artifactId>-->
+<!--        </dependency>-->
     </dependencies>
 
 

@@ -1,2 +1,2 @@
-# comment-spring-boot-starter
-评论系统 spring-boot-starter
+# lc-comment
+评论系统
