@@ -19,7 +19,7 @@
     <modules>
         <module>comment-spring-boot-starter</module>
         <module>comment-mongo-example</module>
-<!--        <module>comment-starter-example</module>-->
+        <!--        <module>comment-starter-example</module>-->
 <!--        <module>comment-docs</module>-->
     </modules>
 
